@@ -16,5 +16,5 @@ La longueur de la table de données est de : 4.468.587 pour 18/02/2019 de 00:00 
 Voici le lien vers la table STATIONS : https://drive.google.com/drive/folders/13iBqvdfa7oJupFo4XNljwHvju6sjYpsK.
 Sous le nom de :  'df_STATIONS'.
 
-Cette table contient les stations et le pourcentage de leurs données par rapport à la totalité des données.
+Cette table contient les stations et le pourcentage de leurs données par rapport à la totalité des données, et le fichier 'df_voie', contient la vitesse moyenne par voie.
 
