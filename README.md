@@ -1,7 +1,8 @@
 # Data_5sc
 
 Voici le lien vers la table de données Hmvl : https://drive.google.com/drive/folders/11S4WY5FwE0HQMsaEEJR_uO9Jx43mJafU?usp=sharing
-sous le nom de ...
+sous le nom de' Hmvl_1802_2402_2.csv'.
+
 Ce fichier  représente les données individuelles qui sont stockées dans un fichier dit HMVL(Heure Minute Vitesse Longueur).
 La table de données contient une ligne par passage d'un véhicule détecté sur un point de mesure du réseau.
 
@@ -12,8 +13,8 @@ L’identité de la station est représentée par deux façons:
 - Un code de 20 caractères (Exemple : TPA-EXTBAU_RDTSTC002), et cela représente 10% des données.
 
 La longueur de la table de données est de : 4.468.587 pour 18/02/2019 de 00:00 à 16:22 et elle contient les données de 139 stations.
-Voici le lien vers la table STATIONS : https://drive.google.com/drive/folders/11S4WY5FwE0HQMsaEEJR_uO9Jx43mJafU?usp=sharing.
-Sous le nom de :  df_STATIONS
+Voici le lien vers la table STATIONS : https://drive.google.com/drive/folders/13iBqvdfa7oJupFo4XNljwHvju6sjYpsK.
+Sous le nom de :  'df_STATIONS'.
 
-Cette table contient les stations avec le pourcentage de leurs données par rapport à la totalité des données.
+Cette table contient les stations et le pourcentage de leurs données par rapport à la totalité des données.
 
