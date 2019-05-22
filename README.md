@@ -14,8 +14,6 @@ L’identité de la station est représentée par deux façons:
 
 La longueur de la table de données est de : 4.468.587 pour 18/02/2019 de 00:00 à 16:22 et elle contient les données de 139 stations.
 Voici le lien vers la table STATIONS : https://drive.google.com/drive/folders/13iBqvdfa7oJupFo4XNljwHvju6sjYpsK.
-Sous le nom de :  'df_STATIONS'.
-
-Cette table contient les stations et le pourcentage de leurs données par rapport à la totalité des données, et le fichier 'df_voie', contient la vitesse moyenne par voie.
+Sous le nom de :  'df_STATIONS'. Cette dernière contient les stations et le pourcentage de leurs données par rapport à la totalité des données, et le fichier 'df_voie', contient la vitesse moyenne par voie.
 
 Le fichier 'M7_i_j.csv' contient les données par voie des stations suivantes : M7i, M7I, M7j, M7J.
