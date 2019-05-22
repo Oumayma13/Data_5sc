@@ -18,3 +18,4 @@ Sous le nom de :  'df_STATIONS'.
 
 Cette table contient les stations et le pourcentage de leurs données par rapport à la totalité des données, et le fichier 'df_voie', contient la vitesse moyenne par voie.
 
+Le fichier 'M7_i_j.csv' contient les données par voie des stations suivantes : M7i, M7I, M7j, M7J.
